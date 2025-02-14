@@ -1,0 +1,25 @@
+{
+   "applinks":{
+      "apps":[],
+      "details":[
+         {
+            "appIDs":[
+               "4PB36D84YG.com.spcom.pttr"
+            ],
+            "paths":[
+               "*"
+            ],
+            "components":[
+               {
+                  "pattern":"/*"
+               }
+            ]
+         }
+      ]
+   },
+   "webcredentials":{
+      "apps":[
+         "4PB36D84YG.com.spcom.pttr"
+      ]
+   }
+}

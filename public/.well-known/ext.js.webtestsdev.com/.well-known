@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.symblink.pttr",
+    "sha256_cert_fingerprints":
+    ["37:D6:C5:9F:B0:05:0F:E8:77:B8:FE:C7:13:7F:1E:94:C0:32:79:0D:8A:75:A0:45:AE:06:BB:62:18:96:DE:C2"]
+  }
+}]

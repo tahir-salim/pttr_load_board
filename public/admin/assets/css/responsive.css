@@ -1,0 +1,132 @@
+@media only screen and (max-width: 1920px) and (min-width: 1500px) {
+	.container {
+		max-width: 1315px;
+	}
+}
+
+@media only screen and (max-width: 1600px) {
+	
+}
+
+@media only screen and (max-width: 1445px) {
+	.tablescroll{ width: 100%; height: 90%; overflow: visible; }
+	.formFilters .fields.width-200{ width: initial; }
+	
+}
+
+@media only screen and (max-width: 1366px) {
+	html {
+		font-size: 15px;
+	}
+	.Btnmultiple a{ height: 70px; padding: 0.97rem 1rem; font-size: 14px; }
+	.Btnmultiple a img{  margin-right: 1rem; width: 40px; }
+	.panelBox nav li a{ padding: 0.9rem 0.8rem; }
+	.panelBox nav li a i{ font-size: 10px; }
+	.panelBox nav li a img{  max-width: 20px; }
+	.panelBox nav li a small{ width: 30px; }
+	.logo img{ width: 130px; }
+	.boxvideos h4{ font-size: 1.025rem;  }
+	.paymentCardBox .cardDet figure img{ max-width: 40px; }
+	.paymentCardBox .cardDet .cont h3{ font-size: 1rem; }
+	.card.addpaymentMethod{ min-height: 142px; }
+	.formpayment form{ flex-wrap: wrap; }
+	.invoiceTable .list{ width: 150px; flex-shrink: 0; }
+	.invoiceTable .list:nth-child(4){ width: 150px; }
+	
+}
+
+@media (max-width: 1199.98px) {
+	html {
+		font-size: 14px;
+	}
+	.menuWrap .menu a{ padding: 16px 15px; }
+
+	
+
+
+}
+
+@media (max-width: 991.98px) {
+	html {
+		font-size: 13px;
+	}
+	.container{ max-width: 90%; }
+	
+	.menu-Bar{ display:block; top: 45px; bottom: initial; }
+	nav.scrollcustom.open{ display:flex; left:0px;  }
+	nav.scrollcustom{ position:fixed; left:-210%; right:0; top:0;bottom:0;margin:auto;background:var(--theme-color);height:100vh;display:flex; justify-content:center;flex-flow:column;transition:all 0.4s ease;z-index:33;width:100vw;
+		padding: 5rem 2rem;}
+	ul.menu li{ display:block }
+	ul.menu li a{ margin-bottom:10px;padding:0;display:block;text-align:center;margin-bottom:15px;padding-right:0px;margin-right:0px;color:#fff;font-size:15px;text-transform:capitalize}
+
+	/* main{ height: initial; overflow: initial; } */
+	.mainNotifications{ width: 100%; left: -100%; }
+	.panelBox{ height: 20vh; }
+	.Btnmultiple{ flex-flow: wrap; }
+	.logo img{ width: 120px; }
+	
+	.Btnmultiple a img{ max-width: 30px; }
+	.card .helpcont{ flex-flow: wrap; }
+	.mainBody{ height: 75vh; padding: 2rem 1rem; }
+	.Btnmultiple a{ height: 60px; }
+	.audienceDv { flex-flow: wrap; }
+	.contactchecks label{ vertical-align: top; }
+	.contactchecks label span{ display: block; }
+    
+	.fields.phoneusa:before{ width: 21px; height: 11px; background-size: cover; }
+	.main-header h2{ line-height: normal; }
+	.privateNetcenter{ max-width: 90%; padding: 2rem 1rem; }
+	.card.privateNetcenter h2{ font-size: 1.213rem; padding-top: 0; }
+	.card.privateNetcenter h2 br{ display: none; }
+	.main-header{ flex-flow: wrap; padding-bottom: 1rem; justify-content: center; }
+
+	.livehcatmm .chatHeader .livechatBtn a{ padding: 6px 10px;  }
+	.chatFooter .messageType{ height: 60px; }
+	.factoringPg h2{ font-size: 1.775rem; }
+
+	.shipmentDetails{ padding-top: 1rem; }
+	.main-header h2{ font-size: 1.3rem; }
+	.main-header h2 span{ margin-left: 2rem; }
+	.popupCustom{ width: 100%; }
+	.giftcardBox p{ font-size: 1rem; }
+	.videoiframe{ padding: 2rem 0; }
+	.tabsShipDet .thead > div{ width: 120px; flex-shrink: 0; }
+	.contBody{     height: 80%; }
+	.tabsShipDet .thead{ justify-content: flex-start; }
+	.standardTable .thead >div, 
+	.standardTable .tbody >div{ width: 160px; flex-shrink: 0; }
+	.standardTable .thead >div:last-child, 
+	.standardTable .tbody >div:last-child{ width: 100px; }
+	.searchFilters{ margin-left: 0; }
+	.searchBar .searchBtns{ position: relative; }
+	.usermanagementsTable .thead > div, .usermanagementsTable .tbody .items > div{  
+		width: 300px;
+		flex-shrink: 0;
+	}
+	.usermanagementsTable .thead > div:nth-child(6), 
+	.usermanagementsTable .tbody .items > div:nth-child(6){ width: auto; }
+	.usermanagementsTable .thead > div:nth-child(1), .usermanagementsTable .tbody .items > div:nth-child(1){ width: 30px; }
+	.scrollHeightShip{ height:80%; }
+
+}
+
+@media (max-width: 767.98px) {
+	
+	html {
+		font-size: 14px;
+	}
+	
+
+
+}
+
+@media (max-width: 575.98px) {
+
+	.tabsShipment{ gap: 1em; }
+	.tabsShipment a{ padding: 10px 0px; font-size: 14px; margin-right: 0rem; }
+	.searchBar .searchBtns { width: 100%; margin-top: 1rem; }
+	.main-header h2 span{ font-size: 1.2rem; }
+	
+}
+
+@media (max-width: 320.98px) {  }
